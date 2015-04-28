@@ -35,9 +35,12 @@ public class MainActivity extends ActionBarActivity implements PlatformActionLis
             }
         });
     }
+    /**
+     * sssssssssssssssssssssssssssssssssss
+     */
 
     /**
-     * 我修改过了···········
+     * 我修改过了···········oifjsdpaopdsojp
      */
     private void showShare() {
         ShareSDK.initSDK(this);
