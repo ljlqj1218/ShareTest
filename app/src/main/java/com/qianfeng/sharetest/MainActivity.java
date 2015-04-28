@@ -35,6 +35,10 @@ public class MainActivity extends ActionBarActivity implements PlatformActionLis
             }
         });
     }
+
+    /**
+     * 我修改过了···········
+     */
     private void showShare() {
         ShareSDK.initSDK(this);
         UIHandler.prepare();
